@@ -1,0 +1,11 @@
+C:\Users\cabre\source\repos\DesviacionEstandar\DesviacionEstandar\bin\Debug\DesviacionEstandar.exe.config
+C:\Users\cabre\source\repos\DesviacionEstandar\DesviacionEstandar\bin\Debug\DesviacionEstandar.exe
+C:\Users\cabre\source\repos\DesviacionEstandar\DesviacionEstandar\bin\Debug\DesviacionEstandar.pdb
+C:\Users\cabre\source\repos\DesviacionEstandar\DesviacionEstandar\obj\Debug\DesviacionEstandar.csproj.AssemblyReference.cache
+C:\Users\cabre\source\repos\DesviacionEstandar\DesviacionEstandar\obj\Debug\DesviacionEstandar.csproj.SuggestedBindingRedirects.cache
+C:\Users\cabre\source\repos\DesviacionEstandar\DesviacionEstandar\obj\Debug\DesviacionEstandar.Form1.resources
+C:\Users\cabre\source\repos\DesviacionEstandar\DesviacionEstandar\obj\Debug\DesviacionEstandar.Properties.Resources.resources
+C:\Users\cabre\source\repos\DesviacionEstandar\DesviacionEstandar\obj\Debug\DesviacionEstandar.csproj.GenerateResource.cache
+C:\Users\cabre\source\repos\DesviacionEstandar\DesviacionEstandar\obj\Debug\DesviacionEstandar.csproj.CoreCompileInputs.cache
+C:\Users\cabre\source\repos\DesviacionEstandar\DesviacionEstandar\obj\Debug\DesviacionEstandar.exe
+C:\Users\cabre\source\repos\DesviacionEstandar\DesviacionEstandar\obj\Debug\DesviacionEstandar.pdb
